@@ -1,0 +1,13 @@
+body {
+    background-color: #2C3E50;
+    background-image: url('/assets/img/flask.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: 10%;
+    background-position-y: 30%;
+}
+
+.title{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

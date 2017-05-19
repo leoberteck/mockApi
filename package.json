@@ -1,0 +1,22 @@
+{
+  "name": "mockapiserver",
+  "version": "1.0.0",
+  "description": "Servidor de dados de mock para testes automatizados",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Leonado Bertechini Stábile",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "mongoose": "^4.9.10",
+    "pug": "^2.0.0-rc.1",
+    "serve-favicon": "^2.4.3"
+  }
+}
